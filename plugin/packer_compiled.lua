@@ -175,6 +175,11 @@ _G.packer_plugins = {
     path = "/home/mayyas/.local/share/nvim/site/pack/packer/start/vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
   },
+  ["vim-tmux-navigator"] = {
+    loaded = true,
+    path = "/home/mayyas/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
+    url = "https://github.com/christoomey/vim-tmux-navigator"
+  },
   ["zen-mode.nvim"] = {
     loaded = true,
     path = "/home/mayyas/.local/share/nvim/site/pack/packer/start/zen-mode.nvim",
